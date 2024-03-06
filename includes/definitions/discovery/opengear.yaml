@@ -1,4 +1,4 @@
-mib: OG-STATUSv2-MIB
+mib: OG-STATUSv2-MIB:OG-STATUS-MIB
 modules:
     os:
         hardware_mib: OG-PRODUCTS-MIB
